@@ -4,6 +4,13 @@ import androidx.databinding.BaseObservable;
 import androidx.databinding.Bindable;
 import androidx.databinding.library.baseAdapters.BR;
 
+/**
+ * @author 下一页5（轻飞扬）
+ * * 个人小站：http://yhsh.wap.ai(已挂)
+ * * 最新小站：http://www.iyhsh.icoc.in
+ * * 联系作者：企鹅 13343401268
+ * * 博客地址：http://blog.csdn.net/xiayiye5
+ */
 public class People extends BaseObservable {
 
     /**
