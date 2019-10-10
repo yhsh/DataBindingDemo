@@ -1,0 +1,2 @@
+# DataBindingDemo
+关于MVVM架构中视图数据绑定框架dataBinding的基本用法
