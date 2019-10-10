@@ -1,2 +1,4 @@
 # DataBindingDemo
 关于MVVM架构中视图数据绑定框架dataBinding的基本用法
+基本用法：
+通过设置xml数据自动更新视图
